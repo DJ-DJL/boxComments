@@ -1,0 +1,5 @@
+/****************
+* Some test     *
+* text with lo​  *
+* nger lines    *
+****************/

@@ -1,7 +1,9 @@
 {
-  "name": "boxcomments",
-  "version": "0.0.1",
-  "main": "./dist/index.js",
+  "name": "@djleehaha/boxcomments",
+  "version": "0.0.3",
+  "main": "./dist/boxComment.js",
+  "types": "./dist/boxComment.d.ts",
+  "private": false,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,5 +14,8 @@
   "devDependencies": {
     "typescript": "^5.5.4"
   },
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "@types/node": "^22.4.0"
+  }
 }
