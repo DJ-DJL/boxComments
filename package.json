@@ -1,6 +1,6 @@
 {
   "name": "@djleehaha/boxcomments",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "./dist/boxComment.js",
   "types": "./dist/boxComment.d.ts",
   "private": false,
@@ -9,7 +9,7 @@
   },
   "keywords": [],
   "author": "DJL",
-  "license": "none",
+  "license": "MIT",
   "description": "",
   "devDependencies": {
     "typescript": "^5.5.4"
